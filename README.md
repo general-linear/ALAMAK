@@ -1,7 +1,7 @@
 # ALAMAK
 ALAMAK: Loo Advanced Machine Allocation Klaxon-complex
 
-##Language settings
+## Language settings
 
 The following languages will be prioritised in creating the interface of ALAMAK─
 
